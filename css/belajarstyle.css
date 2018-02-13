@@ -1,0 +1,21 @@
+h1	{color: #ff4da6}
+
+h2	{color: #b380ff;}
+
+a	{color: #3399ff;}
+
+#nav	{
+		border: dotted pink;
+		margin: 10px 5px 15px 20px
+}
+
+#nav	a {text-decoration: none; 
+		   color: #993366
+}
+
+.recommended {
+	font-family: Verdana;
+	font-variant: small-caps;
+	word-spacing: 30px;
+
+}
